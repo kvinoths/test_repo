@@ -1,0 +1,16 @@
+C:\KES\Milan\SVN\RM_StockTake\RM_StockTake_SIRIO\RM_StockTake_SIRIO\RM_StockTake_SIRIO\bin\Debug\RM_StockTake_SIRIO.pdb
+C:\KES\Milan\SVN\RM_StockTake\RM_StockTake_SIRIO\RM_StockTake_SIRIO\RM_StockTake_SIRIO\bin\Debug\RM_StockTake_SIRIO.exe
+C:\KES\Milan\SVN\RM_StockTake\RM_StockTake_SIRIO\RM_StockTake_SIRIO\RM_StockTake_SIRIO\bin\Debug\Symbol.Barcode2.dll
+C:\KES\Milan\SVN\RM_StockTake\RM_StockTake_SIRIO\RM_StockTake_SIRIO\RM_StockTake_SIRIO\obj\Debug\ResolveAssemblyReference.cache
+C:\KES\Milan\SVN\RM_StockTake\RM_StockTake_SIRIO\RM_StockTake_SIRIO\RM_StockTake_SIRIO\obj\Debug\RM_StockTake_SIRIO.Export.resources
+C:\KES\Milan\SVN\RM_StockTake\RM_StockTake_SIRIO\RM_StockTake_SIRIO\RM_StockTake_SIRIO\obj\Debug\RM_StockTake_SIRIO.Properties.Resources.resources
+C:\KES\Milan\SVN\RM_StockTake\RM_StockTake_SIRIO\RM_StockTake_SIRIO\RM_StockTake_SIRIO\obj\Debug\RM_StockTake_SIRIO.StockTake.resources
+C:\KES\Milan\SVN\RM_StockTake\RM_StockTake_SIRIO\RM_StockTake_SIRIO\RM_StockTake_SIRIO\obj\Debug\RM_StockTake_SIRIO.Welcome.resources
+C:\KES\Milan\SVN\RM_StockTake\RM_StockTake_SIRIO\RM_StockTake_SIRIO\RM_StockTake_SIRIO\obj\Debug\RM_StockTake_SIRIO.csproj.GenerateResource.Cache
+C:\KES\Milan\SVN\RM_StockTake\RM_StockTake_SIRIO\RM_StockTake_SIRIO\RM_StockTake_SIRIO\obj\Debug\RM_StockTake_SIRIO.exe
+C:\KES\Milan\SVN\RM_StockTake\RM_StockTake_SIRIO\RM_StockTake_SIRIO\RM_StockTake_SIRIO\obj\Debug\RM_StockTake_SIRIO.pdb
+C:\KES\Milan\SVN\RM_StockTake\RM_StockTake_SIRIO\RM_StockTake_SIRIO\RM_StockTake_SIRIO\bin\Debug\Interop.SSCE.dll
+C:\KES\Milan\SVN\RM_StockTake\RM_StockTake_SIRIO\RM_StockTake_SIRIO\RM_StockTake_SIRIO\obj\Debug\Interop.SSCE.dll
+C:\KES\Milan\SVN\RM_StockTake\RM_StockTake_SIRIO\RM_StockTake_SIRIO\RM_StockTake_SIRIO\obj\Debug\RM_StockTake_SIRIO.csproj.ResolveComReference.cache
+C:\KES\Milan\SVN\RM_StockTake\RM_StockTake_SIRIO\RM_StockTake_SIRIO\RM_StockTake_SIRIO\bin\Debug\PsionTeklogixNet.dll
+C:\KES\Milan\SVN\RM_StockTake\RM_StockTake_SIRIO\RM_StockTake_SIRIO\RM_StockTake_SIRIO\bin\Debug\Symbol.Barcode2.xml

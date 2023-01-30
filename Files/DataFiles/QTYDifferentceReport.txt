@@ -1,0 +1,2 @@
+Bar Code            |Material            |Standard Quantity   |Actual
+9780201379624,  AYAD3R     0037000,            4282.000,            1282.000
